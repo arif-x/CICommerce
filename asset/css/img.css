@@ -1,0 +1,23 @@
+.product-image-container img {
+    object-fit: cover !important;
+    width: 270px;
+    height: 270px;
+}
+
+.slider-item a img {
+    object-fit: cover !important;
+    width: 1200px;
+    height: 360px;
+}
+
+.image-nya img {
+    object-fit: cover !important;
+    width: 600px !important;
+    height: 300px;
+}
+
+a .img-thumbnail {
+    object-fit: cover !important;
+    width: 100px !important;
+    height: 50px;
+}
